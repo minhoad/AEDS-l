@@ -1,2 +1,2 @@
 # AEDS_l
-Repositório da disciplina Algoritmos e Estruturas de Dados l, lecionada no CEFET-MG.
+Repository of Algorithms and Data Structures l, taught at CEFET-MG.
